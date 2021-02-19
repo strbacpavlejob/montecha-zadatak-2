@@ -7,6 +7,6 @@
 
 # Rezultat se ispisuje u fajl ouput.txt
 
-# Izmenite primer iz input.txt
+# Za nove rezultate izmenite postojeci primer iz input.txt
 
 
